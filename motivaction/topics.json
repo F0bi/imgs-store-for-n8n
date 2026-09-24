@@ -1,52 +1,52 @@
 [
   {
-    "title": "La regola dell'1%: diventa migliore ogni giorno",
-    "description": "The stickman discovers that small improvements every day can completely transform his life.",
+    "title": "Il piccolo cambiamento che può trasformare completamente la tua vita",
+    "description": "The stickman feels stuck and believes that meaningful change requires a dramatic transformation. He decides to experiment with improving just one small aspect of his life every day: waking up slightly earlier, exercising for a few minutes, reading a few pages, or completing one task he usually avoids. At first, the results seem insignificant and he becomes tempted to stop. As days and weeks pass, however, these tiny improvements begin to compound. His habits become stronger, his confidence increases, and his daily life gradually changes. The story shows that lasting transformation does not necessarily come from one extraordinary decision, but from consistently making small improvements over a long period of time.",
     "completed": true
   },
   {
-    "title": "Smetti di aspettare la motivazione",
-    "description": "The stickman keeps waiting to feel motivated, until he realizes that he needs to take action even when he doesn't feel like it.",
+    "title": "Non aspettare di sentirti motivato: inizia comunque",
+    "description": "The stickman has an important goal but keeps postponing it because he is waiting to feel motivated, inspired, or ready. Every morning he tells himself that he will start tomorrow, and every evening he feels disappointed for doing nothing. Eventually, he realizes that motivation is unreliable and that waiting for the right feeling keeps him trapped in the same routine. He decides to take one small action even when he does not feel like it. That first action creates momentum, and repeated action gradually makes the task easier. The story illustrates the difference between relying on temporary motivation and developing the ability to act despite resistance, boredom, or lack of enthusiasm.",
     "completed": true
   },
   {
-    "title": "La tua zona di comfort ti sta trattenendo",
-    "description": "A metaphorical comfort zone protects the stickman, but prevents him from growing. He decides to step outside it.",
+    "title": "La tua zona di comfort ti sta lentamente rovinando la vita",
+    "description": "The stickman has created a comfortable routine where nothing feels particularly difficult, but nothing really changes either. He avoids difficult conversations, new experiences, unfamiliar environments, and opportunities that could lead to personal growth because staying where he feels safe seems easier. Over time, he notices that his comfort has become a limitation. He decides to challenge himself through small, manageable steps: speaking to someone new, trying something he has always avoided, accepting failure, and taking responsibility for uncomfortable decisions. Each step feels difficult at first, but gradually his confidence grows. The story explores how comfort can provide temporary security while excessive avoidance can prevent meaningful growth.",
+    "completed": false
+  },
+  {
+    "title": "Nessuno verrà a salvarti: devi iniziare da solo",
+    "description": "The stickman feels unhappy with his life but spends most of his time waiting for something external to change it. He hopes that someone will give him the perfect opportunity, solve his problems, recognize his potential, or suddenly make everything easier. Months pass and nothing changes. Eventually, he realizes that waiting has become an excuse for avoiding responsibility. He begins with the things he can actually control: his daily choices, his habits, his effort, and the way he responds to setbacks. The story does not suggest that people never need help; instead, it focuses on the moment when someone stops waiting for another person to take the first step and decides to take responsibility for moving forward.",
+    "completed": false
+  },
+  {
+    "title": "La disciplina ti porterà dove la motivazione non arriva",
+    "description": "The stickman's life is chaotic. He frequently makes plans, sets ambitious goals, and feels motivated for a few days, but quickly returns to old habits. He decides to stop relying on how he feels and starts building simple routines instead. He chooses a consistent wake-up time, schedules regular exercise, sets aside focused time for his most important task, and learns to finish small commitments even when he would rather do something easier. The process is not perfect: he misses days and occasionally falls back into old patterns. Instead of giving up, he returns to his routine. Over time, consistency produces results that motivation alone never managed to create.",
+    "completed": false
+  },
+  {
+    "title": "Stai per mollare? Forse sei più vicino di quanto pensi",
+    "description": "The stickman has been working toward an important goal, but nothing seems to be improving. He experiences repeated failures, receives little recognition, and begins questioning whether his effort is worth it. He compares his current situation with the results he expected and considers giving up. Just when he is ready to stop, he realizes that progress is not always visible while it is happening. He reviews how far he has already come and decides to continue, but with a more realistic approach. He adjusts his strategy, keeps working, and eventually notices small signs that his efforts are beginning to produce results. The story focuses on perseverance, delayed results, and the importance of not confusing slow progress with failure.",
+    "completed": false
+  },
+  {
+    "title": "Smetti di confrontare la tua vita con quella degli altri",
+    "description": "The stickman constantly looks at other people's lives and believes everyone is progressing faster than he is. He sees successful careers, relationships, achievements, possessions, and seemingly perfect lives, while focusing on everything he believes is missing from his own life. The more he compares himself, the less motivated and confident he becomes. Eventually, he realizes that he is comparing his complete reality with carefully observed fragments of other people's lives. He decides to stop measuring his progress against other people and instead tracks his own development: what he could not do before, what he has learned, and what small improvements he has made. His attention gradually shifts from comparison to personal progress.",
+    "completed": false
+  },
+  {
+    "title": "Smetti di dire 'un giorno': oggi può essere il tuo giorno uno",
+    "description": "The stickman has a long list of things he wants to do, but every goal is postponed to an undefined future. He tells himself that one day he will exercise, start the project, learn the skill, change his routine, or pursue the opportunity he keeps thinking about. Days become weeks and months without any real action. Eventually, he recognizes that 'one day' is not a date and that waiting for the perfect circumstances guarantees more waiting. He chooses one goal and decides that today will be Day One. The first attempt is small and imperfect, but it creates a clear starting point. The story emphasizes that progress begins when an intention becomes a concrete action.",
+    "completed": false
+  },
+  {
+    "title": "Cadere non è il problema: il vero problema è non rialzarsi",
+    "description": "The stickman repeatedly tries to improve his life but encounters failure after failure. A project does not work, a goal takes longer than expected, and mistakes make him question his ability to succeed. Each setback makes him want to stop, but every time he chooses to get back up and try again. He gradually learns that failure is not a single event that defines him, but information that can help him adjust his approach. Instead of expecting a perfect path, he becomes more comfortable with mistakes, setbacks, and temporary defeats. The story follows his transformation from someone afraid of failure into someone who understands that resilience is built through repeated attempts.",
     "completed": true
   },
   {
-    "title": "Nessuno verrà a salvarti",
-    "description": "The stickman waits for someone else to solve his problems, until he realizes that he must take responsibility for his own life.",
-    "completed": false
-  },
-  {
-    "title": "La disciplina cambierà la tua vita",
-    "description": "The stickman transforms his chaotic daily life through discipline, routines, and consistency.",
-    "completed": false
-  },
-  {
-    "title": "Non mollare prima che le cose migliorino",
-    "description": "After experiencing repeated failures, the stickman is about to give up. He decides to keep going and eventually sees the first signs of progress.",
-    "completed": false
-  },
-  {
-    "title": "Smetti di paragonarti agli altri",
-    "description": "The stickman feels inadequate while watching other people succeed, until he realizes that he needs to focus on his own journey.",
-    "completed": false
-  },
-  {
-    "title": "Un giorno o giorno uno?",
-    "description": "The stickman keeps postponing his goals, telling himself 'one day I'll do it,' until he decides that today will be his Day One.",
-    "completed": false
-  },
-  {
-    "title": "Il potere di rialzarsi",
-    "description": "The stickman fails repeatedly, falls down, gets back up, and learns that true success isn't about never falling.",
-    "completed": true
-  },
-  {
-    "title": "Il tuo io futuro ti sta guardando",
-    "description": "The stickman encounters a future version of himself and realizes that the decisions he makes today are shaping his future.",
+    "title": "Il tuo io futuro dipende dalle scelte che fai oggi",
+    "description": "The stickman suddenly encounters an older version of himself and gets the opportunity to see how his current choices have shaped his future. He discovers that his future was not determined by one dramatic decision, but by hundreds of ordinary choices repeated over time: what he did with his mornings, how he spent his free time, which habits he maintained, which opportunities he ignored, and how often he postponed important goals. The encounter makes him realize that his future self is being created by the actions he takes today. He returns to the present with a different perspective and begins making small, deliberate choices that align with the person he wants to become.",
     "completed": false
   }
 ]

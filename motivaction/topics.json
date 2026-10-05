@@ -48,5 +48,280 @@
     "title": "Il tuo io futuro dipende dalle scelte che fai oggi",
     "description": "The stickman suddenly encounters an older version of himself and gets the opportunity to see how his current choices have shaped his future. He discovers that his future was not determined by one dramatic decision, but by hundreds of ordinary choices repeated over time: what he did with his mornings, how he spent his free time, which habits he maintained, which opportunities he ignored, and how often he postponed important goals. The encounter makes him realize that his future self is being created by the actions he takes today. He returns to the present with a different perspective and begins making small, deliberate choices that align with the person he wants to become.",
     "completed": true
+  },
+  {
+    "title": "Continui a rimandare quella cosa che sai di dover fare",
+    "description": "The stickman has one simple task that he has been postponing for days. Every morning he tells himself he will do it later, and every evening he promises to start tomorrow. The task itself is not particularly difficult, but thinking about it creates resistance. He fills his time with easier activities and small distractions until the day is over. Eventually, he realizes that the mental weight of postponing the task has become greater than the task itself. He decides to spend just ten minutes working on it instead of waiting to feel ready. Once he starts, he discovers that taking action is easier than constantly thinking about what he should be doing.",
+    "completed": false
+  },
+  {
+    "title": "Prendi il telefono per cinque minuti e perdi un'ora",
+    "description": "The stickman sits down intending to check his phone for only a few minutes. He opens one app, then another, watches a few videos, reads some comments, and checks messages. Without noticing, nearly an hour has passed. He feels frustrated because he had planned to use that time for something important. The next day, the same thing happens again. He eventually realizes that the problem is not that he lacks time, but that his attention is constantly being interrupted. He starts putting his phone away during important moments and creates specific times to check it. Slowly, he gets back control of his attention.",
+    "completed": false
+  },
+  {
+    "title": "Dici sempre sì e poi ti ritrovi senza tempo per te",
+    "description": "The stickman is the person everyone can count on. Whenever someone asks for a favor, extra help, a last-minute task, or a personal request, he says yes. At first he likes feeling useful, but eventually his own plans are constantly pushed aside. He becomes tired and starts feeling resentful toward people who keep asking him for things. He realizes that the problem is not that other people ask too much, but that he never communicates his limits. He begins practicing simple and respectful ways of saying no. He discovers that protecting his time does not make him selfish; it allows him to give his attention more intentionally.",
+    "completed": false
+  },
+  {
+    "title": "Hai mille cose da fare e non sai da dove iniziare",
+    "description": "The stickman starts his day with a long list of tasks. He looks at everything he needs to do and immediately feels overwhelmed. Instead of starting, he moves from one task to another, checks messages, reorganizes his list, and worries about what he has not finished. By the end of the day, he has been busy but has completed very little. He eventually decides to stop trying to solve everything at once. He chooses the single task that would make the biggest difference and works on it first. The story shows how clarity often comes not from doing more, but from deciding what deserves attention now.",
+    "completed": false
+  },
+  {
+    "title": "Aspetti la risposta a un messaggio e immagini il peggio",
+    "description": "The stickman sends an important message to someone and notices that there is no reply. At first he thinks the person is simply busy. After a few hours, however, he starts creating explanations in his head. He wonders whether he said something wrong, whether the other person is angry, or whether he is being ignored. He checks his phone repeatedly and becomes increasingly anxious. Eventually, he realizes that he has turned a simple absence of information into a story filled with assumptions. He learns to distinguish between what he knows and what he is imagining. The silence remains, but it no longer controls his mood.",
+    "completed": false
+  },
+  {
+    "title": "Ti prepari così tanto che non inizi mai",
+    "description": "The stickman wants to start a new project, but he keeps preparing instead of actually beginning. He watches tutorials, compares tools, creates plans, researches alternatives, and tries to find the perfect method. Every time he gets close to starting, he discovers something else he should learn first. Months pass and the project remains untouched. He finally understands that preparation has become a comfortable form of procrastination because it allows him to feel productive without risking failure. He chooses to begin with an imperfect first version. The experience teaches him that real progress often starts before he feels fully prepared.",
+    "completed": false
+  },
+  {
+    "title": "Ti arrabbi per una cosa successa cinque minuti fa",
+    "description": "The stickman has a bad interaction during his day. Someone speaks to him rudely, a colleague makes an irritating comment, or another driver behaves badly. Even after the situation ends, he keeps replaying it in his mind. He imagines better responses he could have given and becomes angry all over again. Hours later, the other person has probably forgotten the event, but the stickman is still carrying it. He realizes that replaying the moment does not change what happened; it only extends the emotional cost. He starts practicing the ability to let small unpleasant moments end when the actual situation ends.",
+    "completed": false
+  },
+  {
+    "title": "Dopo una giornata difficile vuoi mollare tutto",
+    "description": "The stickman comes home after a difficult day feeling exhausted and disappointed. Nothing went as planned, several things went wrong, and he starts questioning whether his efforts are worth continuing. In that emotional moment, every problem seems bigger than it really is. Instead of making major decisions while frustrated, he gives himself time to recover. He eats, rests, takes a walk, and allows the day to end. The next morning, the problems still exist, but they feel more manageable. He learns that exhaustion can distort perspective and that not every difficult day requires a dramatic response.",
+    "completed": false
+  },
+  {
+    "title": "Ti senti in ritardo rispetto a tutti gli altri",
+    "description": "The stickman looks around and sees people his age buying homes, building careers, getting married, traveling, or achieving goals he has not reached yet. He starts believing that he is behind and that he has wasted too much time. Every success he sees in someone else becomes evidence against himself. Eventually, he realizes that there is no universal schedule for a human life. He cannot see the private struggles, failures, or doubts behind other people's visible achievements. He decides to focus on the next meaningful step in his own life instead of constantly measuring his position against someone else's timeline.",
+    "completed": false
+  },
+  {
+    "title": "Hai una giornata libera e alla fine non hai fatto nulla",
+    "description": "The stickman finally gets a free day and plans to use it well. He wants to exercise, clean the house, work on a personal project, read, and take care of several small tasks. Because there is no urgent deadline, he keeps telling himself there is plenty of time. He watches something, checks his phone, takes a long break, and postpones everything until later. Suddenly it is evening. He realizes that unlimited free time did not automatically create productivity. He begins planning his free days around a few realistic priorities instead of assuming that motivation will appear simply because he has more time.",
+    "completed": false
+  },
+  {
+    "title": "Continui a comprare cose che non ti servono davvero",
+    "description": "The stickman often buys small things because they seem useful, interesting, discounted, or simply enjoyable in the moment. None of the purchases seems serious by itself, but over several months he notices how much money has disappeared. He also notices that many of the things he bought are barely used. He starts asking himself a simple question before buying something: would I still want this if it were not on sale or if nobody else knew I had it? The pause changes his behavior. He begins spending more deliberately and discovers that avoiding unnecessary purchases feels better than the temporary excitement of buying them.",
+    "completed": false
+  },
+  {
+    "title": "Non hai bisogno di rispondere subito a ogni messaggio",
+    "description": "The stickman feels that every incoming message requires an immediate response. When his phone vibrates, he interrupts whatever he is doing to check it. Conversations gradually fill his entire day and make it difficult to concentrate. He starts feeling guilty whenever he does not answer quickly, even when nothing is urgent. Eventually, he realizes that being constantly available is not the same as being reliable. He begins separating urgent communication from ordinary messages and allows himself to respond later when he has the time and attention. His days become quieter without damaging the relationships he cares about.",
+    "completed": false
+  },
+  {
+    "title": "Ti lamenti della tua routine ma continui a ripeterla",
+    "description": "The stickman complains every day that his routine is boring and that his life feels repetitive. He wishes he had more energy, more experiences, and more time for himself, but his evenings always look the same. He finishes work, sits on the couch, scrolls through his phone, and goes to bed late. One evening, he realizes that waiting for life to become more interesting is not changing anything. He decides to modify one part of his routine instead of trying to transform everything at once. A small change creates a new experience, and that experience makes other changes feel possible.",
+    "completed": false
+  },
+  {
+    "title": "Hai paura di fare una domanda perché temi di sembrare stupido",
+    "description": "The stickman is in a situation where he does not understand something, but he remains silent because he is afraid that other people will judge him. He nods as if everything is clear and later spends much more time trying to figure things out alone. The same pattern happens repeatedly. Eventually, he realizes that pretending to understand does not protect his image; it only creates bigger problems later. The next time he is confused, he asks a simple question. Nothing terrible happens. In fact, he discovers that other people were often confused about the same thing. He learns that asking questions is a form of confidence, not weakness.",
+    "completed": false
+  },
+  {
+    "title": "Ogni volta che inizi qualcosa vuoi farla perfettamente",
+    "description": "The stickman decides to learn a new skill, but he becomes frustrated because his first attempts are far from perfect. He compares his beginner results with the work of people who have practiced for years. Instead of continuing, he keeps restarting and changing his approach. Eventually, he understands that perfection is making it impossible to accumulate experience. He gives himself permission to produce mediocre first attempts and focuses on improving one detail at a time. The more he practices, the less intimidating imperfection becomes. He discovers that quality often comes after many imperfect repetitions rather than before the first attempt.",
+    "completed": false
+  },
+  {
+    "title": "Ti prometti che domani andrai a letto presto",
+    "description": "The stickman wakes up tired after another night spent going to bed too late. During the morning, he promises himself that tonight will be different. However, when evening arrives, he tells himself he deserves some free time. One video becomes three, one episode becomes another, and he keeps scrolling even though he knows he should sleep. The cycle repeats for weeks. Eventually, he realizes that his problem is not a lack of knowledge about sleep but the absence of a clear stopping point. He creates a simple evening routine and starts protecting the final hour of his day. His mornings gradually become easier.",
+    "completed": false
+  },
+  {
+    "title": "Lasci che una piccola giornata storta diventi una settimana storta",
+    "description": "The stickman misses one workout, eats badly one evening, skips an important task, and immediately tells himself that he has ruined his progress. Since the day is already 'lost,' he continues making poor choices. One mistake becomes several, and one difficult day becomes a difficult week. Eventually, he realizes that the original mistake was not the real problem. The problem was believing that one imperfect moment required an entire period of giving up. He starts treating setbacks as isolated events and returns to his normal routine at the next opportunity.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che lavori meglio quando hai una scadenza",
+    "description": "The stickman notices that he becomes extremely productive only when a deadline is close. When he has plenty of time, he works slowly, gets distracted, and postpones difficult tasks. As the deadline approaches, stress forces him into action. Although he keeps finishing his work, the constant pressure leaves him exhausted. He decides to recreate some of the structure of a deadline by dividing large tasks into smaller milestones. Instead of waiting for urgency to appear, he creates earlier checkpoints for himself. This changes his relationship with time and reduces the amount of last-minute panic in his life.",
+    "completed": false
+  },
+  {
+    "title": "Hai bisogno di una risposta e continui a controllare la posta",
+    "description": "The stickman sends an email about something important and then checks his inbox every few minutes. He knows that the other person may need time to respond, but uncertainty makes him keep refreshing the page. Each check interrupts his concentration and increases his frustration. Eventually, he realizes that checking more often does not make a reply arrive faster. He decides to check his inbox at specific times instead of constantly monitoring it. The waiting period remains, but it stops consuming his attention. He learns that sometimes the best way to deal with uncertainty is to stop feeding it with constant checking.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi di essere sempre quello che organizza tutto",
+    "description": "The stickman notices that whenever friends want to meet, he is the one who chooses the place, checks availability, sends messages, and organizes the details. At first he does not mind, but eventually he feels that nobody else takes initiative. Instead of silently becoming frustrated, he stops automatically taking responsibility for every plan. The next time someone suggests meeting, he asks the group to choose the place and time. Some plans become less organized, but he also discovers who is willing to contribute. He learns that relationships become more balanced when responsibility is shared rather than silently carried by one person.",
+    "completed": false
+  },
+  {
+    "title": "Ti senti stanco ma continui a riempire ogni momento libero",
+    "description": "The stickman feels exhausted but never truly rests. When he has ten free minutes, he checks his phone. When he has an evening free, he fills it with entertainment, errands, messages, and plans. He thinks that doing nothing is wasting time. Eventually, he realizes that his body can stop working while his mind continues consuming information. He experiments with short periods without screens, noise, or obligations. At first the silence feels uncomfortable, but gradually he becomes more relaxed. He learns that rest is not the opposite of productivity; it is part of maintaining the energy needed to function well.",
+    "completed": false
+  },
+  {
+    "title": "Continui a pensare a quello che avresti potuto dire",
+    "description": "The stickman leaves an important conversation and immediately begins replaying it in his mind. He thinks about the answer he should have given, the joke he could have made, and the sentence he wishes he had phrased differently. Hours later, he is still mentally editing the conversation. He realizes that the other person probably remembers only a fraction of the interaction. Instead of trying to rewrite the past, he asks himself what he can learn for the next conversation. The experience becomes useful rather than painful. He learns that reflection helps only when it leads to understanding, not when it becomes endless self-criticism.",
+    "completed": false
+  },
+  {
+    "title": "Hai un problema ma continui a distrarti invece di affrontarlo",
+    "description": "The stickman knows that something in his life needs attention. It could be an unpaid bill, an uncomfortable conversation, a work problem, or a decision he has been avoiding. Every time the thought appears, he finds something else to do. The distraction gives him temporary relief, but the problem becomes heavier each day. Eventually, he decides to spend just fifteen minutes facing it. He makes a phone call, writes down the options, or takes the first practical step. The problem does not disappear immediately, but the anxiety decreases because he is finally moving toward a solution.",
+    "completed": false
+  },
+  {
+    "title": "Vuoi cambiare tutto quando basterebbe cambiare una cosa",
+    "description": "The stickman becomes frustrated with several areas of his life at once. He wants to exercise, eat better, sleep more, work harder, save money, read, and learn something new. He creates an ambitious plan that lasts only a few days because there are too many changes happening simultaneously. After several failed attempts, he chooses just one behavior. He focuses on making that behavior automatic before adding another. Progress is slower than his original plan, but this time it lasts. He discovers that sustainable change often comes from reducing the number of battles he tries to fight at the same time.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che non sai più stare senza rumore",
+    "description": "The stickman constantly has something playing in the background: videos, music, podcasts, notifications, or conversations. Whenever the environment becomes quiet, he immediately reaches for his phone. One day, while walking without headphones, he notices how uncomfortable silence feels. His mind is suddenly full of thoughts he normally avoids. Instead of immediately distracting himself, he allows the thoughts to be there. After a while, the silence becomes relaxing rather than uncomfortable. He realizes that constant stimulation can make ordinary quiet moments feel strange, and that learning to be alone with his thoughts can be surprisingly valuable.",
+    "completed": false
+  },
+  {
+    "title": "Ti preoccupi per problemi che forse non succederanno mai",
+    "description": "The stickman spends hours imagining everything that could go wrong. He worries about future conversations, possible mistakes, financial problems, work situations, and decisions he has not even made yet. Each imagined scenario feels real enough to create anxiety. Eventually, he starts separating possible problems into two categories: things he can prepare for and things he cannot control. He takes practical action where possible and stops repeatedly rehearsing situations that may never happen. He discovers that preparation can be useful, but endless prediction only creates stress without creating solutions.",
+    "completed": false
+  },
+  {
+    "title": "Non ti manca il tempo: ti manca un limite",
+    "description": "The stickman believes he does not have enough time for the things he cares about. However, when he reviews his day, he notices many activities that expand simply because he never decided when they should stop. Meetings last longer than necessary, social media sessions have no ending, and small tasks consume entire evenings. He starts setting simple boundaries around his activities. Instead of trying to find more hours, he learns to give existing hours a defined purpose. The change is subtle, but suddenly he has time for things that previously seemed impossible to fit into his day.",
+    "completed": false
+  },
+  {
+    "title": "Ti senti in colpa quando fai qualcosa solo per te",
+    "description": "The stickman spends most of his time taking care of work, responsibilities, friends, and family. Whenever he tries to do something simply because he enjoys it, he feels that he should be doing something more useful. He begins to realize that this constant sense of guilt prevents him from recovering and enjoying his own life. He starts scheduling small moments for himself without trying to justify them. Reading, walking, exercising, or simply doing nothing becomes part of his routine. He learns that personal time does not need to produce a measurable result to have value.",
+    "completed": false
+  },
+  {
+    "title": "Hai paura di cambiare lavoro anche se non sei più felice",
+    "description": "The stickman has been unhappy with his job for a long time, but the idea of changing feels risky. He worries about losing stability, making the wrong decision, starting again, or discovering that another job is not better. Because the decision feels enormous, he does nothing. Eventually, he realizes that changing jobs does not have to begin with resigning. He can update his skills, explore opportunities, talk to people, and understand the market while keeping his current position. Taking small steps reduces the fear because uncertainty is gradually replaced by information.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che spendi di più quando sei di cattivo umore",
+    "description": "The stickman notices a pattern in his spending. After stressful days, he is more likely to order food, buy something online, or make an unnecessary purchase because it gives him a brief feeling of satisfaction. The purchases are small, but the pattern repeats whenever he feels frustrated or tired. Instead of simply trying to control his spending through willpower, he starts noticing the emotional trigger behind it. He creates a short pause before buying something when he is upset. Over time, he finds other ways to recover from difficult days without turning every bad mood into an expense.",
+    "completed": false
+  },
+  {
+    "title": "Continui a tenere una cosa che non usi più",
+    "description": "The stickman looks around his home and notices how many things he keeps simply because he might need them someday. Drawers are full, closets are crowded, and objects he rarely uses occupy valuable space. Every item seems too insignificant to remove, so nothing changes. One day he decides to start with just one drawer. He keeps what he genuinely uses and lets go of the rest. The process feels surprisingly liberating. He continues one small area at a time and realizes that reducing physical clutter also makes everyday decisions easier.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che passi più tempo a pianificare che a vivere",
+    "description": "The stickman loves planning. He organizes trips, weekends, meals, workouts, projects, and future goals in great detail. Planning makes him feel in control, but sometimes he becomes so focused on optimizing everything that he forgets to enjoy the present moment. He starts leaving some parts of his days intentionally unplanned. At first this feels inefficient, but he discovers unexpected conversations, spontaneous decisions, and simple experiences that would never have appeared in a perfect schedule. He learns that planning can create freedom, but too much planning can remove the very experiences he is trying to create.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che chiedi consigli ma hai già deciso",
+    "description": "The stickman faces a difficult decision and asks several people for advice. Everyone gives him a different opinion, so he asks even more people. Instead of becoming clearer, the decision becomes more confusing. Eventually, he realizes that he is not actually searching for information; he is searching for someone to remove the responsibility of choosing. He stops asking everyone what they would do and starts asking himself what matters most to him. Other people's experiences remain useful, but the final decision becomes his own. The story explores the difference between seeking advice and avoiding responsibility.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che dici 'sono fatto così' troppo spesso",
+    "description": "The stickman often explains his behavior by saying that this is simply how he is. He says he is disorganized, impatient, shy, distracted, or incapable of changing certain habits. These labels make his behavior feel permanent. One day, he decides to replace 'this is who I am' with 'this is what I usually do.' The new wording changes his perspective. If a behavior is something he does rather than something he is, it can potentially be changed. He starts experimenting with small adjustments and discovers that identity can evolve through repeated actions.",
+    "completed": false
+  },
+  {
+    "title": "Una critica ti rovina tutta la giornata",
+    "description": "The stickman receives a small criticism about something he has done. The comment may be useful, but he focuses only on the negative part. He thinks about it repeatedly and begins questioning his abilities. Later, he receives several positive comments, but barely remembers them. He realizes that his mind has given one negative signal far more importance than everything else. Instead of rejecting criticism or accepting it blindly, he learns to separate useful information from emotional interpretation. He takes the part that can help him improve and lets the rest go.",
+    "completed": false
+  },
+  {
+    "title": "Ti senti obbligato a essere disponibile anche fuori dal lavoro",
+    "description": "The stickman finishes work but never truly disconnects. He checks messages, emails, notifications, and requests in the evening because he worries that someone might need him. Even when nobody contacts him, he feels that he should be available. His personal time becomes fragmented and he starts feeling permanently connected to work. He eventually creates a clear boundary between working hours and personal time. Not every message requires an immediate answer, and not every problem needs to be solved that evening. The change helps him recover mentally and return to work with more focus the following day.",
+    "completed": false
+  },
+  {
+    "title": "Continui a cercare il momento perfetto per iniziare",
+    "description": "The stickman keeps waiting for the perfect conditions. He wants more energy, more free time, better equipment, a better week, fewer responsibilities, or a more convenient moment. Every reason sounds reasonable, but there is always another obstacle. Eventually, he notices that months have passed while he has remained exactly where he started. He decides to begin under imperfect conditions. The first attempt is smaller than he imagined, but it finally exists. He learns that waiting for the perfect moment often means waiting for a moment that will never arrive.",
+    "completed": false
+  },
+  {
+    "title": "Ti rendi conto che non ascolti davvero quando qualcuno parla",
+    "description": "The stickman often appears to listen during conversations, but his mind is already preparing his next response. Sometimes he checks his phone, thinks about something else, or waits for a pause so he can tell his own story. One day, he decides to practice listening without planning his reply. He asks questions, pays attention to details, and allows the other person to finish completely. The conversations become deeper and more meaningful. He discovers that many people do not need immediate solutions; they simply want to feel heard. Listening carefully becomes a small habit that improves his relationships.",
+    "completed": false
+  },
+  {
+    "title": "Hai una lista di buone intenzioni che non diventano mai azioni",
+    "description": "The stickman regularly tells himself that he should exercise more, call certain people, learn something new, save money, organize his home, and take better care of himself. His intentions are sincere, but they remain vague. Because none of them has a specific time or first step, they are constantly postponed. He decides to turn one intention into a concrete action with a clear moment attached to it. Instead of saying he will exercise more, he chooses a specific day and a short workout. The difference between an intention and a plan becomes obvious once he starts acting.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che aspetti sempre che sia qualcun altro a fare il primo passo",
+    "description": "The stickman wants to reconnect with an old friend, improve a relationship, ask for an opportunity, or start a conversation, but he waits for the other person to initiate. Weeks pass because both sides are waiting. Eventually, he realizes that being the first to act does not mean being less important or less valued. He sends the message, makes the call, or starts the conversation. Sometimes the response is positive and sometimes it is not, but at least the uncertainty ends. He learns that taking the first step can be an act of courage rather than vulnerability.",
+    "completed": false
+  },
+  {
+    "title": "Ogni piccolo errore ti fa dubitare di te stesso",
+    "description": "The stickman makes a mistake at work and immediately begins questioning his overall ability. One forgotten detail becomes evidence that he is not good enough. The mistake occupies his thoughts long after it has been corrected. He eventually realizes that he is judging his entire identity based on isolated events. He begins treating mistakes as specific problems rather than global verdicts about himself. He asks what happened, what caused it, and what he can change next time. His confidence becomes more stable because it is no longer dependent on never making mistakes.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che sei sempre di fretta anche quando non serve",
+    "description": "The stickman rushes through almost everything. He eats quickly, walks quickly, answers messages quickly, and tries to finish every task as soon as possible. Even when there is no real deadline, he feels uncomfortable slowing down. One day, he notices that constant rushing makes small problems feel urgent and prevents him from enjoying ordinary moments. He experiments with deliberately slowing down during a few parts of his day. Nothing important is lost. In fact, he makes fewer mistakes and feels calmer. He realizes that speed is useful when necessary, but living permanently in a hurry has a hidden cost.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che continui a controllare se qualcuno ha visualizzato",
+    "description": "The stickman sends a message and starts checking whether the other person has seen it. He notices the status repeatedly and interprets every minute without a response. If the message is viewed but unanswered, his mind creates even more explanations. He realizes that digital signals provide very little context but can trigger a huge amount of interpretation. He decides to stop monitoring read receipts and focus on what is actually under his control. The other person's response time remains uncertain, but his own attention no longer depends on it.",
+    "completed": false
+  },
+  {
+    "title": "Hai un cassetto pieno di cose da sistemare e lo ignori per mesi",
+    "description": "The stickman has several small household tasks that would take only a few minutes, but because none feels urgent, he keeps postponing them. A drawer becomes disorganized, a broken item remains unrepaired, documents accumulate, and small chores slowly become a permanent background problem. One day, he decides to spend just twenty minutes fixing the most annoying things. The results are surprisingly satisfying. He realizes that many sources of daily stress are not large problems at all, but small unresolved tasks that repeatedly occupy mental space.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che passi troppo tempo a scegliere cosa guardare",
+    "description": "The stickman finishes his day and opens a streaming service to relax. Instead of watching something, he spends twenty minutes browsing, comparing options, reading descriptions, and changing his mind. Eventually, he becomes frustrated and watches something he does not even enjoy. He realizes that having unlimited choices can create unnecessary decision fatigue. He starts choosing from a small list of things he already knows he likes. The evening becomes simpler and more enjoyable because less mental energy is spent deciding how to spend it.",
+    "completed": false
+  },
+  {
+    "title": "Ti arrendi a un'abitudine proprio perché hai saltato un giorno",
+    "description": "The stickman starts a useful habit and follows it successfully for several days. Then something unexpected happens and he misses one day. Instead of simply continuing the next day, he feels that the streak has been ruined and gives up. A few weeks later, he starts again and repeats the same pattern. Eventually, he understands that consistency does not mean never missing a day. It means returning after a missed day. He changes his goal from maintaining a perfect streak to reducing the time between falling off and starting again.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che cerchi approvazione prima di decidere",
+    "description": "The stickman has an idea but immediately wonders what other people will think. Before making a decision, he imagines their reactions and tries to choose the option that will receive the most approval. This makes even simple choices exhausting. Eventually, he realizes that other people's opinions can be useful without becoming the final authority over his life. He starts asking himself whether a decision is aligned with his own priorities before worrying about how it will look to others. He becomes more comfortable making choices that may not be universally understood or approved.",
+    "completed": false
+  },
+  {
+    "title": "Hai bisogno di una pausa ma continui a dire ancora cinque minuti",
+    "description": "The stickman is tired during a long work session but keeps telling himself he will stop after finishing one more thing. One task becomes another, and the promised five-minute break keeps moving forward. Eventually, his concentration drops and he starts making simple mistakes. He realizes that continuing while exhausted is not always productive. He begins using short planned breaks before his attention completely disappears. The breaks initially feel like lost time, but he notices that he returns with more focus and finishes important tasks more efficiently.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che stai vivendo aspettando il weekend",
+    "description": "The stickman spends Monday thinking about Friday, Tuesday counting the days, and Wednesday already planning the weekend. His workdays feel like something to survive rather than part of his actual life. When the weekend arrives, he is too tired to enjoy it fully, and Sunday evening is immediately ruined by thoughts about Monday. He realizes that waiting for two good days each week is not a satisfying way to live. He starts introducing small enjoyable moments into ordinary weekdays. The goal is not to make every day perfect, but to stop treating most of his life as something he simply has to get through.",
+    "completed": false
+  },
+  {
+    "title": "Ti rendi conto che una conversazione difficile non migliorerà da sola",
+    "description": "The stickman has an unresolved issue with someone close to him. He keeps hoping that enough time will pass and the tension will disappear naturally. Instead, every interaction becomes slightly more uncomfortable. Eventually, he decides to have the conversation he has been avoiding. He focuses on explaining how he feels rather than blaming the other person and listens to their perspective as well. The conversation does not magically solve everything, but it removes the uncertainty and creates the possibility of improvement. He learns that avoiding difficult conversations often preserves the problem rather than the relationship.",
+    "completed": false
+  },
+  {
+    "title": "Continui a lavorare su qualcosa che chiaramente non funziona",
+    "description": "The stickman has invested a lot of time in a project or approach that is producing poor results. Because he has already invested so much effort, he feels that changing direction would mean admitting defeat. He keeps adding more time and energy even though the evidence suggests that something needs to change. Eventually, he realizes that previous effort is already spent and cannot be recovered by continuing blindly. He reviews the situation objectively, changes his approach, and accepts that adjusting course is not failure. Sometimes progress means knowing when to stop doing something in the same way.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che cerchi sempre una soluzione prima di capire il problema",
+    "description": "The stickman encounters a recurring problem and immediately searches for a solution. He downloads an app, buys a tool, changes his routine, or follows someone else's advice. Nothing works for long because he never clearly identifies what is causing the problem. He decides to slow down and observe what actually happens before changing anything. Once he understands the pattern, the solution becomes much simpler. He learns that solving the wrong problem can create even more work and that careful observation is often the first step toward a lasting solution.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che ti manca qualcosa solo perché la vedi negli altri",
+    "description": "The stickman sees someone with a new car, a better home, an exciting relationship, an impressive career, or an expensive hobby. Suddenly, something he was perfectly satisfied with feels inadequate. He starts wanting things he had never considered before. After the initial emotion passes, he asks himself whether he actually wanted those things or simply wanted the feeling associated with having them. He realizes that comparison can manufacture desires that did not exist before. He begins evaluating purchases and goals according to his own priorities rather than other people's visible lifestyles.",
+    "completed": false
+  },
+  {
+    "title": "Ti accorgi che aspetti sempre di avere più energia",
+    "description": "The stickman keeps postponing important activities because he is waiting to feel energetic. He plans to exercise when he feels stronger, work on his project when he is less tired, and organize his life when he has more mental energy. Unfortunately, the perfect level of energy rarely arrives. He starts adapting the size of the task to the energy he actually has. On difficult days he does ten minutes instead of an hour. On better days he does more. This approach allows him to remain consistent without demanding the same performance from himself every day.",
+    "completed": false
+  },
+  {
+    "title": "Una piccola decisione presa ogni giorno può cambiarti il futuro",
+    "description": "The stickman believes that important life changes require major decisions. Then he starts noticing how many ordinary choices shape his days: what he eats, when he sleeps, what he reads, who he spends time with, what he does after work, and whether he saves or spends small amounts of money. None of these decisions seems important in isolation. But repeated for months and years, they create a direction. He begins treating ordinary choices as votes for the person and life he wants to build. The story shows how a future can be shaped quietly through decisions that barely seem significant at the time.",
+    "completed": false
   }
 ]

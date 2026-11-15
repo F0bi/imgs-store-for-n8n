@@ -142,7 +142,7 @@
   {
     "title": "Hai bisogno di una risposta e continui a controllare la posta",
     "description": "The stickman sends an email about something important and then checks his inbox every few minutes. He knows that the other person may need time to respond, but uncertainty makes him keep refreshing the page. Each check interrupts his concentration and increases his frustration. Eventually, he realizes that checking more often does not make a reply arrive faster. He decides to check his inbox at specific times instead of constantly monitoring it. The waiting period remains, but it stops consuming his attention. He learns that sometimes the best way to deal with uncertainty is to stop feeding it with constant checking.",
-    "completed": false
+    "completed": true
   },
   {
     "title": "Ti accorgi di essere sempre quello che organizza tutto",
